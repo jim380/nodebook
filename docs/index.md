@@ -1,2 +1,2 @@
-![NodeBook](pics/NodeBook.png)
+![NodeBook](NodeBook.png)
 <br>[Raspbereum](https://github.com/jim380/Raspbereum) - Ethereum Geth node on Raspberry Pi
