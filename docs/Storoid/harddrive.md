@@ -1,5 +1,5 @@
 # Create and Mount a New Partition
-[ [ Intro ] ](README.md) -- [ [New User](user.md) ] -- [ [**Hard Drive**](harddrive.md) ] -- [ [Daemon](daemon.md) ]
+[ [ Intro ] ](README.md) -- [ [Add User](user.md) ] -- [ [**Create Partition**](harddrive.md) ] -- [ [Install & Run Daemon](daemon.md) ] -- [ [Optimization](optimization.md) ] -- [ [Monitoring](monitor.md) ]
 
 -----
 ## Check Available Drives
@@ -121,4 +121,4 @@ Set correct permission.
 
 -----
 
-Next: [Daemon](daemon.md)
+Next: [Install & Run Daemon](daemon.md)

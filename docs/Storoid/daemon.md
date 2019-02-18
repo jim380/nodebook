@@ -1,5 +1,5 @@
 # Install Storj Share Daemon and Run It
-[ [ Intro ] ](README.md) -- [ [New User](user.md) ] -- [ [Hard Drive](harddrive.md) ] -- [ [**Daemon**](daemon.md) ]
+[ [ Intro ] ](README.md) -- [ [Add User](user.md) ] -- [ [Create Partition](harddrive.md) ] -- [ [**Install & Run Daemon**](daemon.md) ] -- [ [Optimization](optimization.md) ] -- [ [Monitoring](monitor.md) ]
 
 -----
 ## Install System Updates
@@ -59,3 +59,4 @@ Open the config file and set `"doNotTraverseNat"` to `true`.
 ![status](pics/status.png)
 
 ---
+Next: [Optimization](optimization.md)

@@ -1,5 +1,5 @@
 # Create a New User
-[ [ Intro ] ](README.md) -- [ [**New User**](user.md) ] -- [ [Hard Drive](harddrive.md) ] -- [ [Daemon](daemon.md) ]
+[ [ Intro ] ](README.md) -- [ [**Add User**](user.md) ] -- [ [Create Partition](harddrive.md) ] -- [ [Install & Run Daemon](daemon.md) ] -- [ [Optimization](optimization.md) ] -- [ [Monitoring](monitor.md) ]
 
 -----
 ## Add a New User `storj`
@@ -55,4 +55,4 @@ Log out and then log in as `storj` again.
 - `$ ssh storj@<IP>`
 
 ---
-Let's get started: [Hard Drive](harddrive.md)
+Next: [Create Partition](harddrive.md)

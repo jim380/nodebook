@@ -1,5 +1,6 @@
 # Run Storj Share Daemon on Odroid XU4
-[ **Intro** ] -- [ [New User](user.md) ] -- [ [Hard Drive](harddrive.md) ] -- [ [Daemon](daemon.md) ]
+[ **Intro** ] -- [ [Add User](user.md) ] -- [ [Create Partition](harddrive.md) ] -- [ [Install & Run Daemon](daemon.md) ] -- [ [Optimization](optimization.md) ] -- [ [Monitoring](monitor.md) ]  
+
 
 -----
 <br/>![header 1](pics/logo.svg)
@@ -36,4 +37,4 @@ BTC: 1D5eE8FVF5R4JcvSArh4s1UiVnuwvp3j8R
 
 
 ---
-Let's get started: [New User](user.md)
+Let's get started: [Add User](user.md)
